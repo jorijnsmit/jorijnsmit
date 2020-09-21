@@ -1,3 +1,6 @@
+### Curriculum Vitae Summary
+Download [here](cv.pdf).
+
 ### StackOverflow
 Exchanging knowledge, mostly about `pandas` related stuff. My profile:
 
