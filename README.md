@@ -1,5 +1,7 @@
 ### Curriculum Vitae
-:page_facing_up: Download a one page summary [here](cv_summary.pdf).
+A one page summary of my curriculum vitae with my experience, education, projects and skills.
+
+:page_facing_up: [cv_summary.pdf](cv_summary.pdf)
 
 ### StackOverflow
 Exchanging knowledge, mostly about `pandas` related stuff. My profile:
