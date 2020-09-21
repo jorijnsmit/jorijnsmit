@@ -1,5 +1,5 @@
 ### Curriculum Vitae
-Download a summary [here](cv_summary.pdf).
+:page_facing_up: Download a one page summary [here](cv_summary.pdf).
 
 ### StackOverflow
 Exchanging knowledge, mostly about `pandas` related stuff. My profile:
