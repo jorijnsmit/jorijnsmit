@@ -9,6 +9,3 @@
 
 **Numerai**: Data science tournament I participate in. Organised by an open hedge fund which takes predictions to model the stock market.  
 :link: https://numer.ai/jorijnsmit
-
-**LinkedIn**: Professional social network.  
-:link: https://www.linkedin.com/in/jorijn
