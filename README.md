@@ -9,3 +9,6 @@
 
 **Numerai**: Data science tournament I participate in. Organised by an open hedge fund which takes predictions to model the stock market.  
 :link: https://numer.ai/jorijnsmit
+
+**Dune Analytics**: Building dashboards to analyse blockchain related projects.  
+:link: https://duneanalytics.com/gosuto
